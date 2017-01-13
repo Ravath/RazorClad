@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding="utf-8"?>
+
+<DialogCollection>
+	<Dialogs>
+		<Dialog Code = "prologue">
+			<Repartees>
+				<Repartee Locuteur = "Main" Left = "true">
+					<Message>Ouha, j'ai bien dormi!!</Message>
+				</Repartee>
+				<Repartee Locuteur = "Main" Left = "true">
+					<Message>Bon, il est temps d'aller faire un tour.</Message>
+				</Repartee>
+				<Repartee Locuteur = "Main" Left = "true">
+					<Message>Profitons en pour passer chez Alfred.</Message>
+				</Repartee>
+			</Repartees>
+		</Dialog>
+		<Dialog Code = "prologue2">
+			<Repartees>
+				<Repartee Locuteur = "Soeur" Left = "false">
+					<Message>Halte là, petit scorpion!</Message>
+				</Repartee>
+				<Repartee Locuteur = "Main" Left = "true">
+					<Message>Allons, bon, y a plus moyen de se balader tranquille?</Message>
+				</Repartee>
+				<Repartee Locuteur = "Soeur" Left = "false">
+					<Message>Je passais juste pour dire que tu es un connard.</Message>
+				</Repartee>
+				<Repartee Locuteur = "Description" Left = "false">
+					<Message>...</Message>
+				</Repartee>
+				<Repartee Locuteur = "Description" Left = "false">
+					<Message>[Fin de la transmission]</Message>
+				</Repartee>
+			</Repartees>
+		</Dialog>
+	</Dialogs>
+</DialogCollection>
